@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LDY的博客</title>
+    <link>https://github.com/coldbluesky/coldbluesky.github.io/post/</link>
+    <description>Recent content in Posts on LDY的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 05 Feb 2020 23:23:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/coldbluesky/coldbluesky.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>贪玩蓝月</title>
+      <link>https://github.com/coldbluesky/coldbluesky.github.io/post/my-first-blog/</link>
+      <pubDate>Wed, 05 Feb 2020 23:23:57 +0800</pubDate>
+      
+      <guid>https://github.com/coldbluesky/coldbluesky.github.io/post/my-first-blog/</guid>
+      <description>大家好，我是渣渣辉。
+简介  出生地：香港 性别：男 年龄：38  演员经历  是兄弟就来砍我 一刀999 你还在等什么  </description>
+    </item>
+    
+  </channel>
+</rss>
